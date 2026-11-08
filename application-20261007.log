@@ -1,0 +1,47 @@
+2026-10-07 20:12:18.655 [main] DEBUG Ej3.Gestiona - Fichero creado: lectura.txt
+2026-10-07 20:12:18.657 [main] DEBUG Ej3.Gestiona - Fichero creado: normal.txt
+2026-10-07 20:12:18.657 [main] DEBUG Ej3.Gestiona - lectura.txt modificado a solo lectura
+2026-10-07 20:12:18.657 [main] DEBUG Ej3.Gestiona - lectura.txt -> lectura: true | escritura: false | ejecución: true
+2026-10-07 20:12:18.657 [main] DEBUG Ej3.Gestiona - normal.txt -> lectura: true | escritura: true | ejecución: true
+2026-10-07 20:12:18.658 [main] DEBUG Ej3.Gestiona - La ruta de el fichero para comprobar donde se crea: C:\Users\leonv\miDirectorio\renombrado.txt
+2026-10-07 20:12:18.658 [main] DEBUG Ej3.Gestiona - normal.txt renombrado a renombrado.txt
+2026-10-07 20:12:18.658 [main] DEBUG Ej3.Gestiona - Permiso de escritura restaurado en lectura.txt
+2026-10-07 20:12:18.658 [main] DEBUG Ej3.Gestiona - El fichero lectura.txt se ha podido borrar correctamente
+2026-10-07 20:12:18.658 [main] DEBUG Ej3.Gestiona - Contenido final de mi directorio
+2026-10-07 20:12:18.659 [main] DEBUG Ej3.Gestiona - normal.txt
+2026-10-07 20:12:18.659 [main] DEBUG Ej3.Gestiona - renombrado.txt
+2026-10-07 20:12:42.855 [main] DEBUG Ej3.Gestiona - Fichero creado: lectura.txt
+2026-10-07 20:12:42.857 [main] DEBUG Ej3.Gestiona - Fichero creado: normal.txt
+2026-10-07 20:12:42.857 [main] DEBUG Ej3.Gestiona - lectura.txt modificado a solo lectura
+2026-10-07 20:12:42.857 [main] DEBUG Ej3.Gestiona - lectura.txt -> lectura: true | escritura: false | ejecución: true
+2026-10-07 20:12:42.857 [main] DEBUG Ej3.Gestiona - normal.txt -> lectura: true | escritura: true | ejecución: true
+2026-10-07 20:12:42.857 [main] DEBUG Ej3.Gestiona - La ruta de el fichero para comprobar donde se crea: C:\Users\leonv\miDirectorio\renombrado.txt
+2026-10-07 20:12:42.857 [main] DEBUG Ej3.Gestiona - normal.txt renombrado a renombrado.txt
+2026-10-07 20:12:42.858 [main] DEBUG Ej3.Gestiona - Permiso de escritura restaurado en lectura.txt
+2026-10-07 20:12:42.858 [main] DEBUG Ej3.Gestiona - El fichero lectura.txt se ha podido borrar correctamente
+2026-10-07 20:12:42.858 [main] DEBUG Ej3.Gestiona - Contenido final de mi directorio
+2026-10-07 20:12:42.858 [main] DEBUG Ej3.Gestiona - normal.txt
+2026-10-07 20:12:42.858 [main] DEBUG Ej3.Gestiona - renombrado.txt
+2026-10-07 20:14:20.301 [main] DEBUG Ej3.Gestiona - Fichero creado: lectura.txt
+2026-10-07 20:14:20.303 [main] DEBUG Ej3.Gestiona - Fichero creado: normal.txt
+2026-10-07 20:14:20.303 [main] DEBUG Ej3.Gestiona - lectura.txt modificado a solo lectura
+2026-10-07 20:14:20.303 [main] DEBUG Ej3.Gestiona - lectura.txt -> lectura: true | escritura: false | ejecución: true
+2026-10-07 20:14:20.303 [main] DEBUG Ej3.Gestiona - normal.txt -> lectura: true | escritura: true | ejecución: true
+2026-10-07 20:14:20.304 [main] DEBUG Ej3.Gestiona - normal.txt renombrado a renombrado.txt
+2026-10-07 20:14:20.304 [main] DEBUG Ej3.Gestiona - Permiso de escritura restaurado en lectura.txt
+2026-10-07 20:14:20.304 [main] DEBUG Ej3.Gestiona - El fichero lectura.txt se ha podido borrar correctamente
+2026-10-07 20:14:20.304 [main] DEBUG Ej3.Gestiona - Contenido final de mi directorio
+2026-10-07 20:14:20.304 [main] DEBUG Ej3.Gestiona - normal.txt
+2026-10-07 20:14:20.304 [main] DEBUG Ej3.Gestiona - renombrado.txt
+2026-10-07 20:14:34.976 [main] DEBUG Ej3.Gestiona - Fichero creado: lectura.txt
+2026-10-07 20:14:34.978 [main] DEBUG Ej3.Gestiona - Fichero creado: normal.txt
+2026-10-07 20:14:34.978 [main] DEBUG Ej3.Gestiona - lectura.txt modificado a solo lectura
+2026-10-07 20:14:34.978 [main] DEBUG Ej3.Gestiona - lectura.txt -> lectura: true | escritura: false | ejecución: true
+2026-10-07 20:14:34.978 [main] DEBUG Ej3.Gestiona - normal.txt -> lectura: true | escritura: true | ejecución: true
+2026-10-07 20:14:34.979 [main] DEBUG Ej3.Gestiona - normal.txt renombrado a renombrado.txt
+2026-10-07 20:14:34.979 [main] DEBUG Ej3.Gestiona - No se ha podido borrar el archivo lectura.txt
+2026-10-07 20:14:34.979 [main] DEBUG Ej3.Gestiona - Permiso de escritura restaurado en lectura.txt
+2026-10-07 20:14:34.979 [main] DEBUG Ej3.Gestiona - El fichero lectura.txt se ha podido borrar correctamente
+2026-10-07 20:14:34.979 [main] DEBUG Ej3.Gestiona - Contenido final de mi directorio
+2026-10-07 20:14:34.980 [main] DEBUG Ej3.Gestiona - normal.txt
+2026-10-07 20:14:34.980 [main] DEBUG Ej3.Gestiona - renombrado.txt
